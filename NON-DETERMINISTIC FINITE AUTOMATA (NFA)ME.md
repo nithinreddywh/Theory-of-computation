@@ -33,7 +33,6 @@ for(k=0;k<10;k++)
 mat[i][j][k]=-1;
 }
 }
-}
 //Get input from the user and fill the 3D transition table
 for(i=0;i<num_states;i++)
 {
